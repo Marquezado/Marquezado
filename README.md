@@ -25,6 +25,8 @@ Interested in troubleshooting issues, analyzing incidents, and collaborating wit
 
 I believe in continuous learning, problem-solving, and writing reliable, maintainable code.
 
+🔗 **Portfolio online:** [[My portfolio](https://marquezado.github.io/my_portfolio/)]
+
 ---
 
 ## `02` / Areas of interest
